@@ -1,0 +1,2 @@
+Flask>=2
+setuptools==72.1.0
